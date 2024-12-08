@@ -1,0 +1,1 @@
+This example demonstrates a potential issue with ActionScript's loosely-typed arrays.  The code pushes different data types into an array. While this works for basic access (using index), problems can arise with iterations or type-sensitive operations.  The solution introduces type checking to improve robustness.
